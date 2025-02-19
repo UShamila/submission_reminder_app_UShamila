@@ -34,7 +34,11 @@ submission_reminder_{yourName}/
 HOW TO RUN THE APP
 
 Clone the repository to your terminal.
+
 Navigate to submission_reminder_{yourName}/.
+
 Modify assignments in assets/submissions.txt if needed.
+
 Edit variables in config/ and app/ directories.
+
 Run the app by executing startup.sh.
