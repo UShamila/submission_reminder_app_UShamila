@@ -1,0 +1,15 @@
+student, assignment, submission status
+Soreye, Shell Navigation, not submitted
+Nzabinesha, Gitbasics, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Alice, Math Homework, submitted
+Bob, Science Project, not submitted
+Denis, History Essay, submitted
+David, Programming Lab, not submitted
+kina, Physics Report, not submitted
+Frank, Chemistry Assignment, submitted
+Grace, Biology Worksheet, not submitted
+Makire, English Presentation, submitted
+Iiankagame, epidemiology Case Study, not submitted
+J0shua, behavioursceince, submitted
