@@ -53,20 +53,15 @@ function check_submissions {
 EOF
 cat << 'EOF' > $main_dir/assets/submissions.txt
 student, assignment, submission status
-Soreye, Shell Navigation, not submitted
-Nzabinesha, Gitbasics, submitted
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
-Alice, Math Homework, submitted
-Bob, Science Project, not submitted
-Denis, History Essay, submitted
-David, Programming Lab, not submitted
-kina, Physics Report, not submitted
-Frank, Chemistry Assignment, submitted
-Grace, Biology Worksheet, not submitted
-Makire, English Presentation, submitted
-Iiankagame, epidemiology Case Study, not submitted
-J0shua, behavioursceince, submitted
+Shamila, git, submitted
+Ladouce, Shell Basics, submitted
+Ornella, Shell Navigation, not submitted
+Aziz, Shell Basics, submitted
+Celine, Git, not submitted
 EOF
 cat << 'EOF' > $main_dir/config/config.env
 
