@@ -1,16 +1,20 @@
-Submission Reminder App
+SUBMISSION REMINDER APP
 
 This app keeps deadlines for assignments and reminds late submissions by students. It works based on the submissions.txt file holding the students' names, assignment names, and submissionstatus.
 
-Key Components
+KEY COMPONENTS
 
 config.env – Stores app variables.
-submissions.txt – Central file with student and assignment data.
-reminder.sh – Checks deadlines for each assignment.
-functions.sh – Displays students with pending assignments.
-startup.sh – Starts the application.
 
-Project Structure
+submissions.txt – Central file with student and assignment data.
+
+reminder.sh – Checks deadlines for each assignment.
+
+functions.sh – Displays students with pending assignments.
+
+startup.sh – Starts the application
+
+PROJECT STRUCTURE
 
 After running create_environment.sh, the directory structure should look like this:
 
@@ -27,7 +31,7 @@ submission_reminder_{yourName}/
 │── README.md  
 │── create_environment.sh  
 
-How to Run the App
+HOW TO RUN THE APP
 
 Clone the repository to your terminal.
 Navigate to submission_reminder_{yourName}/.
